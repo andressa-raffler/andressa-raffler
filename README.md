@@ -1,7 +1,8 @@
 ## 👋 Olá!! Bem vindo(a) ao meu perfil 
 
 
- 👷☕ Me chamo Andressa, sou engenheira civil de formação e estudante de BackEnd Java pela Let's Code, turma #Dev_Makers
+ 👷☕ Me chamo Andressa, sou engenheira civil, formada em 2018 pela Universidate Tecnológica Federal do Paraná, UTFPR </br>
+      <p>Em 2022 iniciei meus estudos na formaçao BackEnd Java da Let's Code, turma #Dev_Makers</p>
 
 
 <div align="center">
