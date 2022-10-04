@@ -1,10 +1,9 @@
 ## 👋 Olá!! Bem vindo(a) ao meu perfil 
 
 
-  ☕ Me chamo Andressa, sou desenvolvedora BackEnd Java na vertical de bancos da Sinqia </br>
+  ☕  Me chamo Andressa, sou desenvolvedora BackEnd Java na vertical de bancos da Sinqia </br>
   👷  Sou engenheira civil, formada em 2018 pela Universidate Tecnológica Federal do Paraná, UTFPR </br>
-      <p>Em 2022 iniciei meus estudos na formaçao BackEnd Java da Let's Code, turma #Dev_Makers, buscando também aprendizado em outras plataformas
-      para aprimorar o conhecimento.</p>
+  👨‍🎓  Em 2022 passei no processo seletivo da Let's Code - Ada, onde ganhei uma bolsa para a formaçao BackEnd Java na turma #Dev_Makers com 400h de duraçao</br>
 
 
 <div align="center">
