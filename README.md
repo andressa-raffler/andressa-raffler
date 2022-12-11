@@ -2,7 +2,7 @@
 
 I'm Andressa Raffler,  I'm a Software Engineer at Sinqia
 
-[![Linkedin: Andressa](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-raffler/)](https://www.linkedin.com/in/andressa-raffler/)
+[![Linkedin: Andressa](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-raffler/?locale=en_US)](https://www.linkedin.com/in/andressa-raffler/?locale=en_US)
 
 ## ⚡ Technologies
 
